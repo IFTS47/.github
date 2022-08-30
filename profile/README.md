@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+We're IFTS.
+Not a software company but we have some great guys 🧙 working on this subject anyway.
+
 <!--
 
 **Here are some ideas to get you started:**
